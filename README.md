@@ -1,0 +1,2 @@
+# ExamenSQLLite
+listado de personas 
